@@ -15,8 +15,7 @@
     <img align="center" alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
     <img align="center" alt="MYSQL"src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-    <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</div><br/>
+    </div><br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crkw1&langs_count=8)](https://github.com/Crkw1/github-readme-stats)
 
