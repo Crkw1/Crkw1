@@ -5,8 +5,6 @@
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-almeida-536464167/)
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/williamcrk1/)
 
-![Crkw1 GitHub stats](https://github-readme-stats.vercel.app/api?username=Crkw1&show_icons=true&theme=merko)
-
 
 ## Tecnologias que uso. 
 
@@ -18,6 +16,10 @@
     </div><br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crkw1&langs_count=8)](https://github.com/Crkw1/github-readme-stats)
+
+
+
+
 
 
 Programação é vida!!!
